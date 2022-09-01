@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**I am King CEO**
+**I am King CEO. Welcome to my GitHub**
 
 
 - 🌱 I’m currently learning Software Engineering at [ALX Africa](https://www.alxafrica.com/programme_post/full-stack-software-engineer/)
