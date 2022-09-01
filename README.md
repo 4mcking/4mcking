@@ -5,7 +5,7 @@
 
 
 - 🌱 I’m currently learning Software Engineering at [ALX Africa](https://www.alxafrica.com/programme_post/full-stack-software-engineer/)
-- 🔭 I’m currently working on [Higher-level programming - Python projects](https://alx-intranet.hbtn.io/projects/current#collapse-block-31)
+- 🔭 I’m currently working on [Higher-level programming - Python](https://alx-intranet.hbtn.io/projects/current#collapse-block-31) projects
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=4mcking&show_icons=true&theme=jolly&layout=compact" />
