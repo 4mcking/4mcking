@@ -12,10 +12,10 @@
 [![Github](https://img.shields.io/github/followers/4mcking)](https://github.com/4mcking)
 -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/4mcking/github-readme-stats">
   <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=4mcking&show_icons=true&theme=jolly&layout=compact" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/4mcking/convoychat">
   <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4mcking&langs_count=8&theme=jolly&layout=compact" />
 </a>
 
