@@ -3,8 +3,8 @@
 ***I am King CEO. Welcome to my GitHub***
 
 
-- 🌱 I’m currently learning Software Engineering at [ALX Africa](https://www.alxafrica.com/programme_post/full-stack-software-engineer/)
-- 🔭 I’m currently working on ALX Africa SE projects
+<!--  - 🌱 I’m currently learning Software Engineering at [ALX Africa](https://www.alxafrica.com/programme_post/full-stack-software-engineer/)
+      - 🔭 I’m currently working on ALX Africa SE projects
 
 
 <!--
