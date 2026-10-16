@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=460&lines=Hi+there!+%F0%9F%91%8B%F0%9F%8F%BB;Welcome+to+my+GitHub+profile)](https://git.io/typing-svg)
 
-I'm **King CEO**, a software engineer passionate about building practical solutions, continuous learning, and collaborating on meaningful projects.
+I'm **King**, a software engineer passionate about building practical solutions, continuous learning, and collaborating on meaningful projects.
 
 ## 🚀 About Me
 - 💻 I build software projects and continuously improve my engineering skills.
